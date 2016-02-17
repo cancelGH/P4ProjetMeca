@@ -1,4 +1,4 @@
-function [h, Jac] = QuickRManuel_cons_hJ(data)
+function [h, J] = QuickRManuel_cons_hJ(data)
 %renvoie le vecteur des contraintes h et la matrice Jacobienne des
 %contraintes J
 
