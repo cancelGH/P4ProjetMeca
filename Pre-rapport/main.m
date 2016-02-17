@@ -1,4 +1,4 @@
-function [] = main_v10fevr()
+function [] = main()
 
 data = struct();
 data.m1 = 16; data.m2 = 4.5; data.m3 = 1.5; data.m4 = 1; data.m5 = 2; %[kg]
